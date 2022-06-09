@@ -10,5 +10,3 @@ class Cat:
     def getAge(self):
         return self.age
 
-
-# from Cat2 import Cat
